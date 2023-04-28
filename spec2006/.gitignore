@@ -1,0 +1,10 @@
+ffmalloc/
+ffmalloc+/
+glibc/
+jemalloc/
+minesweeper/
+markus/
+*.log
+*.res
+*.out
+*.err
